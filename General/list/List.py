@@ -78,5 +78,12 @@ print(thislist02)
 '''
 
 #Looping using List comprehensi
+'''
 [print(x) for x in thislist]
+'''
+
+
+
+
+
 
