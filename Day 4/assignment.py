@@ -26,7 +26,7 @@ Apple | Banana | Mango <End>
 ---
 Welcome to Python!
     Learn to code
-		Have fun!
+		Have fun!!
 ---
 
 '''
